@@ -1,3 +1,5 @@
+console.log("API_ROOT=", process.env.NEXT_PUBLIC_API_URL)
+
 "use client"
 
 import type React from "react"
